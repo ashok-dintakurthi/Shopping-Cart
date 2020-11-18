@@ -1,0 +1,12 @@
+{
+    "CART_LIST": "Cart List is ",
+    "CART_EMPTY": "Cart is empty",
+    "SEND_PAGE_PAGESIZE": "Please send page and pagesize",
+    "SEND_USERID": "Please send UserId",
+    "SEND_VALID_USERID": "Please send valid UserId",
+    "USER_NOT_FOUND": "User not found",
+    "SEND_PRODUCTID": "Please send ProductId",
+    "SEND_VALID_PRODUCTID": "Please send valid ProductId",
+    "PRODUCT_ADDED_SUCCESSFULLY": "Product added successfully",
+    "PRODUCT_NOT_ADDED": "Product not added"
+}
